@@ -1,6 +1,7 @@
 this is a line of text
 this is also a line of text
 AH! Yet another line of text!
+ANOTHER LINE OF TEXT
 this a line I added after learning how to edit
 this is ANOTHER line I added after learning how to edit, but for the second time!
 branches can be used to make an "experimental" offshoot of the "main branch" of the tree
